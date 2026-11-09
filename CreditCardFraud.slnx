@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleApp/CreditCardFraud.App.csproj" Id="5c329384-d986-4cc2-aee7-5284b0f84198" />
+  <Project Path="CreditCardFraud.Model/CreditCardFraud.Model.csproj" />
+</Solution>
